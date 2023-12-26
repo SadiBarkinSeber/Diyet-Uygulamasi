@@ -1,4 +1,16 @@
-# SABB.UI
-
-
-selam
+![Ekran görüntüsü 2023-12-03 172734](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/a26d1097-4d67-4a01-8a82-1d84191c1679)
+![Ekran görüntüsü 2023-12-03 172722](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/02f76a42-832d-4710-97a1-07fa3661fefa)
+![Ekran görüntüsü 2023-12-03 172905](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/3c140f5a-1305-4285-9880-f80a43a55f8c)
+![Ekran görüntüsü 2023-12-27 000450](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/d436674d-b3fc-4a8d-b3d8-eb036d45051b)
+![Ekran görüntüsü 2023-12-03 172852](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/594c2949-899d-4aac-ade9-44cd3f438f15)
+![Ekran görüntüsü 2023-12-03 173020](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/38b1d4fe-8ce4-45cf-ac86-4d1f18890910)
+![Ekran görüntüsü 2023-12-03 173027](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/a0857fcb-f921-4653-a205-d5d3e584f658)
+![Ekran görüntüsü 2023-12-03 173040](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/79f6473a-67e6-487a-9621-8e9206b2c0f1)
+![Ekran görüntüsü 2023-12-03 173046](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/31d83695-01ab-4382-bca6-2d2b7d895f80)
+![Ekran görüntüsü 2023-12-03 173107](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/2c8d5ce8-3364-4a3d-8db8-2803ad86585c)
+![Ekran görüntüsü 2023-12-03 173128](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/9410ad1a-dfa5-4d65-9239-0951a7a344a0)
+![Ekran görüntüsü 2023-12-03 224602](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/c32922ea-600e-4161-b265-b6f86de5ec9f)
+![Ekran görüntüsü 2023-12-03 224651](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/b0f79398-c268-48ff-89ed-275c55de612f)
+![Ekran görüntüsü 2023-12-03 224936](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/0b925524-424f-4b11-bcf0-0a9e504daee6)
+![Ekran görüntüsü 2023-12-03 224945](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/e18258d3-50db-4c21-b9e7-f767595af20b)
+![Ekran görüntüsü 2023-12-03 224953](https://github.com/SadiBarkinSeber/Diyet-Uygulamasi/assets/72513651/4b45b863-6617-4c5c-9f85-44afa5aceb40)
